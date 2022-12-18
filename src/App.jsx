@@ -10,7 +10,7 @@ function App() {
 
   return (
     <div className="App">
-      <div className="px-4 mb-12">
+      <div className="px-4 mb-12 mx-auto md:w-3/4 lg:w-2/4 xl:w-1/3">
         <div className="flex justify-between my-6">
           <div className="title flex items-end space-x-4">
             <h2>Notification</h2>
